@@ -1,4 +1,4 @@
-# C/C++ Development Environment Setup Guide
+# C/C++ Development Environment Setup Guide.
 
 This guide covers setting up a C/C++ development environment including compilers (GCC/Clang), CMake, and essential tools across Windows, Linux, and macOS.
 
